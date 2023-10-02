@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Gius 👾</h1>
 
 <div align="center">
-  <strong>working in STEM</strong>   <br> I we work remotely together, you'll find me on Slack, Airtable, Excel, Notion, Telegram and Trello
-
+  <strong>working in STEM</strong>   
 </div>
 <div align="center">
   <h3>
@@ -13,10 +12,13 @@
     <a href="">
       LinkedIn
     </a>
+
 </div>
 
 <div align="center">
   I'm into <code>fron-end development</code>, <code>UX/UI</code> >> <b>verticalized on tech 🎉</b><br>
+      <br> If we work remotely together, you'll find me on Slack, Airtable, Excel, Notion, Telegram and Trello
+
 </div>
 <br />
 
