@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Gius</h1>
+<h1 align="center">Hello, I'm Gius 👾</h1>
 
 <div align="center">
   <strong>working in STEM</strong>   <br> I we work remotely together, you'll find me on Slack, Airtable, Excel, Notion, Telegram and Trello
@@ -16,9 +16,7 @@
 </div>
 
 <div align="center">
-  I'm into <code>fron-end development</code>, <code>UX/UI</code> >> <b>verticalized on tech</b><br>
-  My experience as a designer and artist allows me to have a transversal point of view on things, while my STEM education keeps me grounded on practice-based development.
-  <b>I'm T-shaped👋🎉 Go below to see</b>
+  I'm into <code>fron-end development</code>, <code>UX/UI</code> >> <b>verticalized on tech 🎉</b><br>
 </div>
 <br />
 
@@ -27,7 +25,8 @@
 </div>
 
 <div align="center">
-<h2>❤︎FRONT-END STACK ~ Languages, Frameworks & Libraries❤︎</h2> 
+  <h2>See what's in my T-Shape 👇</h2>
+<h3>Tech Stack</h3> 
 </div>
 <div align='center'>
 </div>
@@ -43,7 +42,7 @@
 
 
 <div align="center">
-<h2>❤︎My Favourite IDE❤︎</h2> 
+<h3>My Favourite IDE</h3> 
 </div>
 <div align='center'>
 </div> 
@@ -53,7 +52,7 @@
 
 
 <div align="center">
-<h2>❤︎Design Stack❤︎</h2> 
+<h3>Design Stack</h3> 
 </div>
 <div align='center'>
 </div> 
@@ -61,8 +60,11 @@
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23e68619.svg?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/adobe%20indesign-%23ec5b62.svg?logo=adobe-indesign&logoColor=white&style=for-the-badge" alt="Adobe InDesign" />  <img src="https://img.shields.io/badge/adobe%20lightroom-%2331a8ff.svg?logo=adobe-lightroom&logoColor=white&style=for-the-badge" alt="Adobe Lightroom" />  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Adobe Photoshop" />  <img src="https://img.shields.io/badge/adobe%20xd-%23470137.svg?logo=adobe-xd&logoColor=white&style=for-the-badge" alt="Adobe XD" />  <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />  <img src="https://img.shields.io/badge/sketch-%23fa6400.svg?logo=sketch&logoColor=white&style=for-the-badge" alt="Sketch" />
   </div>
 
-
-
-
-
+<div align="center">
+<h3>Game Dev</h3> 
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Made with Unity" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white" alt="Unreal Engine" />
+</div>
 
