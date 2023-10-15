@@ -11,17 +11,6 @@
 | Design Stack [![WIP](https://img.shields.io/static/v1?label=&message=WIP&color=yellow)](https://) | 
 | ------------- |
 | <div align='left'> <img src="https://img.shields.io/badge/adobe%20illustrator-%23e68619.svg?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/adobe%20indesign-%23ec5b62.svg?logo=adobe-indesign&logoColor=white&style=for-the-badge" alt="Adobe InDesign" />  <img src="https://img.shields.io/badge/adobe%20lightroom-%2331a8ff.svg?logo=adobe-lightroom&logoColor=white&style=for-the-badge" alt="Adobe Lightroom" />  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Adobe Photoshop" />  <br> <img src="https://img.shields.io/badge/adobe%20xd-%23470137.svg?logo=adobe-xd&logoColor=white&style=for-the-badge" alt="Adobe XD" />  <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" /> <img src="https://img.shields.io/badge/sketch-%23fa6400.svg?logo=sketch&logoColor=white&style=for-the-badge" alt="Sketch" /> </div>
-<div align='center'>
-</wrapper> 
 
 
-
-
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/giusy-grieco-101612202/">
-      LinkedIn
-    </a>
-</div>
-
-</div>
+</wrapper>
