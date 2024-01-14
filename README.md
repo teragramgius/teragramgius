@@ -17,3 +17,8 @@ Part of my **Tech Stack** starts from Arduino, Python and SQL; nowadays I use As
 Part of my **Design Stack** includes Figma and Adobe Suite.
 
 I'm not a code purist, part of my **No-code Stack** includes Flutter and Webflow.
+
+
+## For inquiries 🔭
+Contact me at giusy.grieco.info@gmail.com
+I'm searching for a dynamic place to grow.
