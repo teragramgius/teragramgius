@@ -11,11 +11,11 @@ The instruments are various, not always the same (see part of my tech stack belo
 
  
 ## I'm T-Shaped ✔
-Part of my **Tech Stack** starts from Arduino, Python and SQL; nowadays I use Astro, React, Vue, Next, Wordpress.
-
+Part of my **Tech Stack** starts from Arduino, Python and SQL; nowadays I use Astro, React, Vue, Next, Wordpress. 
 Part of my **Design Stack** includes Figma and Adobe Suite.
-
 I'm not a code purist, part of my **No-code Stack** includes Flutter and Webflow.
+
+*if you want to know more about my studies, click here*
 
 
 ## For inquiries 🔭
