@@ -1,11 +1,10 @@
 ## Giusy Grieco Github environment - welcome👾 
 
-I deploy web interactive environments.
+I'm an interaction designer and developer and **I care for your online presence in a creative and narrative way.**
+
+
 🎷The groove is made of **data visualization and web development**. 
-
 The instruments are various, not always the same (see part of my tech stack below).
-
-**I will care for your online presence in a creative and transparent way.**
 
   
 <img align="right" height="250" src = "https://media.giphy.com/media/ZZeTlQ2b2eoa4MbehI/giphy.gif">
