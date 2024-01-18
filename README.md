@@ -17,6 +17,6 @@ Part of my **Design Stack** includes Figma and Adobe Suite.
 *See my works here*
 
 
-## For inquiries 🔭
+## Do you need help? 🔭
 Contact me at giusy.grieco.info@gmail.com
 ►I'm searching for a dynamic place to grow.
