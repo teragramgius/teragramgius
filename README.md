@@ -10,7 +10,7 @@ The instruments are various, not always the same.
 <img align="right" height="250" src = "https://media.giphy.com/media/ZZeTlQ2b2eoa4MbehI/giphy.gif">
 
  
-## I'm T-Shaped ✔
+## I have an education, but today everyone does, don't they? ✔
 Part of my **Tech Stack** includes Astro, React, Vue, Next, Wordpress, Python, Arduino. No-code methodologies are part of my stack, too. 
 Part of my **Design Stack** includes Figma and Adobe Suite.
 
