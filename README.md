@@ -1,4 +1,4 @@
-## Giusy Grieco Github environment - welcome👾 
+## teragram inspo - welcome👾 
 
  **I take care of your online presence through interactive websites filled with storytelling**.
 
