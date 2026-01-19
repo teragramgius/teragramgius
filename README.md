@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giusy Grieco</h1>
-<h3 align="center">Policy Systems Analyst</h3>
+<h3 align="center">Policy Analyst</h3>
 
 ---
 
