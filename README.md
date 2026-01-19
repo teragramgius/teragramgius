@@ -20,18 +20,36 @@
 
 ---
 
-<h1>I'm reacheable on</h1>
+<h1>Languages and Tools</h1>
 
-<a href="https://www.linkedin.com/in/giusy-grieco-101612202/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="26" alt="LinkedIn"/>
-</a>
+| **Competency** | **Technologies and Methods** |
+|---------------|------------------------------|
+| **Statistical and Spatial Analysis** | Python (Pandas, GeoPandas, Scikit-learn), R, Stata. Large dataset analysis, spatial regression models. |
+| **GIS Software** | QGIS, ArcGIS. Management of vector and raster data, network analysis, geospatial modelling. |
+| **Data Visualization & Reporting** | PowerBI, Matplotlib, Seaborn, ggplot2, Tableau. Creation of thematic maps, interactive charts, and technical reports. |
+| **Data Management** | SQL (PostgreSQL/PostGIS), experience with APIs and web scraping for non-conventional data collection. |
+| **Research and Publication** | Drafting of academic papers, reports for international organizations, and articles for non-technical audiences. |
 
 ---
 
-<h1>Languages and Tools</h1>
+**Work Environment & Collaboration Tools**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
+  <!-- Knowledge & Writing -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" width="28" alt="Substack"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="28" alt="Notion"/>
+
+  <!-- Collaboration & Project Management -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/atlassian.svg" width="28" alt="Atlassian"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jira.svg" width="28" alt="Jira"/>
+
+  <!-- Productivity -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googledrive.svg" width="28" alt="Google Drive"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg" width="28" alt="Microsoft Office"/>
+</p>
+
+---
+
+
+
+
