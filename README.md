@@ -39,7 +39,6 @@
   </strong>  
 
 ---
----
 
 <h2>Languages and Tools</h2>
 
