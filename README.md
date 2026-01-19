@@ -19,25 +19,8 @@
 - 📬 How to reach me: <strong>giusy.grieco.info@gmail.com</strong>
 
 ---
-<h1>Languages and Tools</h1>
 
-| **Competency** | **Technologies and Methods** | **Tools / Icons** |
-|---|---|---|
-| **Statistical, Data & Spatial Analysis** | Data analysis and modelling using Python (Pandas, GeoPandas), R, and Stata. Regression analysis, spatial regression models, and large-scale dataset analysis. | 🐍 Python · 📊 R |
-| **Machine Learning & Modelling** | Supervised and unsupervised machine learning, regression techniques, and model evaluation. | 🤖 Scikit-learn |
-| **Agent-Based & Systems Modelling** | Design and implementation of agent-based models (ABM) to explore system dynamics, actor interactions, and policy scenarios. | 🧩 ABM (Python) |
-| **GIS & Spatial Modelling** | GIS analysis and geospatial modelling using QGIS and ArcGIS. Management of vector and raster data, network analysis. | 🗺️ QGIS · ArcGIS |
-| **Data Visualization & Mapping** | Interactive data visualisation and web-based mapping using D3.js, Plotly, and Leaflet. Development of dashboards and thematic maps. | 📈 D3.js · Plotly · Leaflet |
-| **Data Management & Databases** | SQL-based data management with PostgreSQL/PostGIS. Experience with APIs and web scraping for non-conventional data collection. | 🛢️ PostgreSQL · PostGIS |
-| **Application Development & Prototyping** | Development of data-driven applications and self-assessment tools using Streamlit and Firebase. | 🧪 Streamlit · Firebase |
-| **DevOps & Technical Environment** | Containerisation and deployment using Docker and Kubernetes. Command-line workflows on Linux environments. | 🐳 Docker · ☸️ Kubernetes · 🐧 Linux |
-| **Version Control & Collaboration** | Git-based version control and collaborative development using GitHub. Shell scripting for automation and workflow optimisation. | 🔧 Git · GitHub · Shell |
-| **Front-End & Interface Development** | Development of analytical user interfaces using React and Tailwind CSS, with a focus on usability and data-driven interaction. | ⚛️ React · Tailwind |
-| **Research, Reporting & Knowledge Transfer** | Drafting of academic papers, policy reports for international organisations, and analytical outputs for non-technical audiences. | 📝 Academic & Policy Writing |
-
----
-
-**Work Environment & Collaboration Tools**
+<h2>Work Environment & Collaboration Tools</h2>
 
 <p align="left">
   <!-- Knowledge & Writing -->
@@ -55,3 +38,20 @@
 
 ---
 
+<h2>Languages and Tools</h2>
+
+| **Competency** | **Technologies and Methods** | **Tools / Icons** |
+|---|---|---|
+| **Statistical, Data & Spatial Analysis** | Data analysis and modelling using Python (Pandas, GeoPandas), R, and Stata. Regression analysis, spatial regression models, and large-scale dataset analysis. | 🐍 Python · 📊 R |
+| **Machine Learning & Modelling** | Supervised and unsupervised machine learning, regression techniques, and model evaluation. | 🤖 Scikit-learn |
+| **Agent-Based & Systems Modelling** | Design and implementation of agent-based models (ABM) to explore system dynamics, actor interactions, and policy scenarios. | 🧩 ABM (Python) |
+| **GIS & Spatial Modelling** | GIS analysis and geospatial modelling using QGIS and ArcGIS. Management of vector and raster data, network analysis. | 🗺️ QGIS · ArcGIS |
+| **Data Visualization & Mapping** | Interactive data visualisation and web-based mapping using D3.js, Plotly, and Leaflet. Development of dashboards and thematic maps. | 📈 D3.js · Plotly · Leaflet |
+| **Data Management & Databases** | SQL-based data management with PostgreSQL/PostGIS. Experience with APIs and web scraping for non-conventional data collection. | 🛢️ PostgreSQL · PostGIS |
+| **Application Development & Prototyping** | Development of data-driven applications and self-assessment tools using Streamlit and Firebase. | 🧪 Streamlit · Firebase |
+| **DevOps & Technical Environment** | Containerisation and deployment using Docker and Kubernetes. Command-line workflows on Linux environments. | 🐳 Docker · ☸️ Kubernetes · 🐧 Linux |
+| **Version Control & Collaboration** | Git-based version control and collaborative development using GitHub. Shell scripting for automation and workflow optimisation. | 🔧 Git · GitHub · Shell |
+| **Front-End & Interface Development** | Development of analytical user interfaces using React and Tailwind CSS, with a focus on usability and data-driven interaction. | ⚛️ React · Tailwind |
+| **Research, Reporting & Knowledge Transfer** | Drafting of academic papers, policy reports for international organisations, and analytical outputs for non-technical audiences. | 📝 Academic & Policy Writing |
+
+---
