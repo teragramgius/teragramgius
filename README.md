@@ -21,15 +21,19 @@
 ---
 <h1>Languages and Tools</h1>
 
-| **Competency** | **Technologies and Methods** | **Icons** |
+| **Competency** | **Technologies and Methods** | **Tools / Icons** |
 |---|---|---|
-| **Statistical and Spatial Analysis** | Python (Pandas, GeoPandas, Scikit-learn), R, Stata. Large dataset analysis, spatial regression models. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="18" alt="R"/> |
-| **GIS Software** | QGIS, ArcGIS. Management of vector and raster data, network analysis, geospatial modelling. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-plain.svg" width="18" alt="QGIS"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arcgis.svg" width="18" alt="ArcGIS"/> |
-| **Data Visualization & Reporting** | Power BI, Matplotlib, Seaborn, ggplot2, Tableau. Creation of thematic maps, interactive charts, and technical reports. | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="18" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="18" alt="Tableau"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/plotly.svg" width="18" alt="Plotly"/> |
-| **Data Management** | SQL (PostgreSQL/PostGIS), experience with APIs and web scraping for non-conventional data collection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" alt="PostgreSQL"/> |
-| **Research and Publication** | Drafting of academic papers, reports for international organizations, and articles for non-technical audiences. | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/overleaf.svg" width="18" alt="Overleaf"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googledocs.svg" width="18" alt="Google Docs"/> |
-
-
+| **Statistical, Data & Spatial Analysis** | Data analysis and modelling using Python (Pandas, GeoPandas), R, and Stata. Regression analysis, spatial regression models, and large-scale dataset analysis. | 🐍 Python · 📊 R |
+| **Machine Learning & Modelling** | Supervised and unsupervised machine learning, regression techniques, and model evaluation. | 🤖 Scikit-learn |
+| **Agent-Based & Systems Modelling** | Design and implementation of agent-based models (ABM) to explore system dynamics, actor interactions, and policy scenarios. | 🧩 ABM (Python) |
+| **GIS & Spatial Modelling** | GIS analysis and geospatial modelling using QGIS and ArcGIS. Management of vector and raster data, network analysis. | 🗺️ QGIS · ArcGIS |
+| **Data Visualization & Mapping** | Interactive data visualisation and web-based mapping using D3.js, Plotly, and Leaflet. Development of dashboards and thematic maps. | 📈 D3.js · Plotly · Leaflet |
+| **Data Management & Databases** | SQL-based data management with PostgreSQL/PostGIS. Experience with APIs and web scraping for non-conventional data collection. | 🛢️ PostgreSQL · PostGIS |
+| **Application Development & Prototyping** | Development of data-driven applications and self-assessment tools using Streamlit and Firebase. | 🧪 Streamlit · Firebase |
+| **DevOps & Technical Environment** | Containerisation and deployment using Docker and Kubernetes. Command-line workflows on Linux environments. | 🐳 Docker · ☸️ Kubernetes · 🐧 Linux |
+| **Version Control & Collaboration** | Git-based version control and collaborative development using GitHub. Shell scripting for automation and workflow optimisation. | 🔧 Git · GitHub · Shell |
+| **Front-End & Interface Development** | Development of analytical user interfaces using React and Tailwind CSS, with a focus on usability and data-driven interaction. | ⚛️ React · Tailwind |
+| **Research, Reporting & Knowledge Transfer** | Drafting of academic papers, policy reports for international organisations, and analytical outputs for non-technical audiences. | 📝 Academic & Policy Writing |
 
 ---
 
@@ -50,7 +54,4 @@
 </p>
 
 ---
-
-
-
 
