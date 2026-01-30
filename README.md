@@ -22,7 +22,7 @@
 
 
 - 🌱 Throughout my career, I have worked in and across policy-relevant domains such as Climate and Environmental Policy, Agrifood Systems and Regenerative Agriculture and Innovation Policy and Knowledge Valorisation, contributing to applied analysis and research in EU research and innovation contexts. 
-<h2>Work Environment & Collaboration Tools</h2>
+<h2>Work Environment & Collaboration Tools I enjoy</h2>
 
 <p align="left">
   <!-- Knowledge & Writing -->
@@ -41,7 +41,7 @@
 
 ---
 
-<h2>Languages and Tools</h2>
+<h2>Languages and Tools I use</h2>
 
 | **Competency** | **Technologies and Methods** | **Tools / Icons** |
 |---|---|---|
