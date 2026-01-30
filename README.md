@@ -14,6 +14,12 @@
   <em>(KALEIDOS Project – EU)</em>
 
 - 🔍 or access my online portfolio <a href="PORTFOLIO_LINK">here</a> for an overview of my work.
+- 📬 My e-mail: <strong>
+    <a href="mailto:giusy.grieco.info@gmail.com">
+     giusy.grieco.info@gmail.com
+    </a>
+  </strong>  
+
 
 - 🌱 Throughout my career, I have worked in and across policy-relevant domains such as Climate and Environmental Policy, Agrifood Systems and Regenerative Agriculture and Innovation Policy and Knowledge Valorisation, contributing to applied analysis and research in EU research and innovation contexts. 
 <h2>Work Environment & Collaboration Tools</h2>
@@ -32,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg" width="28" alt="Microsoft Office"/>
 </p>
 
-📬 My e-mail: <strong>
-    <a href="mailto:giusy.grieco.info@gmail.com">
-     giusy.grieco.info@gmail.com
-    </a>
-  </strong>  
 
 ---
 
