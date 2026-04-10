@@ -20,6 +20,9 @@
     </a>
   </strong>  
 
+- 🏆 Stewardship Programme — All Tech Is Human (2024)
+  Selected to study the intersection between technology, society and 
+  human values in the AI era.
 
 - 🌱 Throughout my career, I have worked in and across policy-relevant domains such as Climate and Environmental Policy, Agrifood Systems and Regenerative Agriculture and Innovation Policy and Knowledge Valorisation, contributing to applied analysis and research in EU research and innovation contexts. 
 <h2>Work Environment & Collaboration Tools I enjoy</h2>
