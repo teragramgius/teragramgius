@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giusy Grieco</h1>
 <h3 align="center">Innovation Analyst</h3>
+<h4 align="center">here you can find my open science projects🌱</h4>
+
 
 ---
 
