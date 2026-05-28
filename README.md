@@ -15,7 +15,7 @@
   </strong>  
   <em>(KALEIDOS Project – EU)</em>
 
-- 🔍 or access my online portfolio <a href="github.com/teragramgius/python-analyst">here</a> for an overview of my work.
+- 🔍🔍🔍 or access my online portfolio [here](https://github.com/teragramgius/python-analyst) for an overview of my work.
 - 📬 My e-mail: <strong>
     <a href="mailto:giusy.grieco.info@gmail.com">
      giusy.grieco.info@gmail.com
